@@ -1,0 +1,10 @@
+Testhelm
+50
+20
+Keine Beschreibung
+0
+#Displayed Name
+#Durability
+#DefensePoints
+#Description
+#ItemIndex 0Helmet 1Chestplate 2Leggins 3Boots

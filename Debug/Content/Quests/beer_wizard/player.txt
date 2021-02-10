@@ -1,0 +1,10 @@
+0
+Was hast du fuer mich?
+Ja, ich bringe dir eins.
+Nein, ich habe keine Zeit.
+Wo soll ich danach suchen?
+Ich komme spaeter wieder [ENDE]
+Such dein Bier selber!
+Ich habe das Bier leider selber getrunken.
+Hier ist das Bier fuer dich!
+Danke! [Ende]
