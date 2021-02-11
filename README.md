@@ -3,7 +3,8 @@
 
 > Current version: pre 0.1
 ---
-The RalSWiek project is a roleplay game based on the XNA framework. The user takes control over a little human who has to pass his way over some islands.
+The RalSWiek project is a roleplay game based on the XNA framework. 
+The user takes control over a little human who has to pass his way over some islands.
 On this islands there are some strange people living. There is an always drunk wizard and a sometimes struggeling teacher. The wizard holds a quest for you.
 
 #### Implemented Functions
