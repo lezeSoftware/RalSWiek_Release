@@ -1,7 +1,7 @@
-# RalSWiek_Release
-Release repo for the RalSWiek project
+# RalSWiek Preview Repository
+> Release repo for the RalSWiek project
 
-> Functions
+### Implemented Functions
 - Inventory overlay with movable item frame
 - Dialogues with NPCs
 - Two quests
@@ -19,7 +19,7 @@ I to open/close the inventory
 ARROW Keys to select an item in the inventory
 ENTER to select a dialogue option
 SPACE after the "Finished" sound to leave the level
-
+---
 ## Known bugs
 
 - The teacher struggles sometimes.
