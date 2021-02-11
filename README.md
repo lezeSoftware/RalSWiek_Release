@@ -1,7 +1,7 @@
 # RalSWiek Preview Repository
 > Release repo for the RalSWiek project
 
-### Implemented Functions
+#### Implemented Functions
 - Inventory overlay with movable item frame
 - Dialogues with NPCs
 - Two quests
@@ -11,7 +11,8 @@
 - Collectable items
 - Interaction with objects in the world
 ---
-## Controls
+
+#### Controls
 
 W A S D moves the character.
 E to talk to NPCs and to use teleporter
@@ -21,7 +22,7 @@ ARROW Keys to select an item in the inventory
 ENTER to select a dialogue option
 SPACE after the "Finished" sound to leave the level
 ---
-## Known bugs
+#### Known bugs
 
 - The teacher struggles sometimes.
 - Some wrong dialogue texts
