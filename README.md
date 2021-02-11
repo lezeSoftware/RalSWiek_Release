@@ -1,5 +1,7 @@
 # RalSWiek Preview Repository
 > Release repo for the RalSWiek project
+---
+< Current version: pre 0.1
 
 #### Implemented Functions
 - Inventory overlay with movable item frame
