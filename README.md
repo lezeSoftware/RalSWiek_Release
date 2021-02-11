@@ -10,8 +10,8 @@ Release repo for the RalSWiek project
 - Moving NPCs
 - Collectable items
 - Interaction with objects in the world
-
-* Controls:
+---
+## Controls:
 W A S D moves the character.
 E to talk to NPCs and to use teleporter
 ARROW UP and DOWN to switch dialogue options
