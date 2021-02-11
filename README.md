@@ -1,15 +1,15 @@
 # RalSWiek_Release
 Release repo for the RalSWiek project
 
-* Functions
-> Inventory overlay with movable item frame
-> Dialogues with NPCs
-> Two quests
-> Level change
-> Teleporter
-> Moving NPCs
-> Collectable items
-> Interaction with objects in the world
+> Functions
+- Inventory overlay with movable item frame
+- Dialogues with NPCs
+- Two quests
+- Level change
+- Teleporter
+- Moving NPCs
+- Collectable items
+- Interaction with objects in the world
 
 * Controls:
 W A S D moves the character.
