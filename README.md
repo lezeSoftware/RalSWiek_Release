@@ -10,7 +10,9 @@ You have to start his quest. Otherwise you can't leave the first island.
 The second island has a automatic end. You have to reach the third small island on the left and have to walk to the right upper side. 
 
 #### 4K Support
-If you use a 4K display, create a textfile "4K.txt" in the directory of the game exe. Otherwise the dialogues and inventory overlays will be displayed wrong.
+
+If you use a 4K display create a textfile "4K.txt" in the directory of the game exe. Otherwise the dialogues and inventory overlays will be displayed wrong.
+
 ---
 
 #### Implemented Functions
