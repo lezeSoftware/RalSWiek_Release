@@ -1,11 +1,13 @@
 # RalSWiek Preview Repository
 > Release repo for the RalSWiek project
 
-> Current version: pre 0.1
+> Current version: pre 0.1.1
 ---
 The RalSWiek project is a roleplay game based on the XNA framework. 
-The user takes control over a little human who has to pass his way over some islands.
+The user takes control over a little man who has to pass his way over some islands.
 On this islands there are some strange people living. There is an always drunk wizard and a sometimes struggeling teacher. The wizard holds a quest for you.
+You have to start his quest. Otherwise you can't leave the first island.
+The second island has a automatic end. You have to reach the third small island and have to walk to the right upper side. 
 
 #### Implemented Functions
 - Inventory overlay with movable item frame
@@ -15,6 +17,7 @@ On this islands there are some strange people living. There is an always drunk w
 - Teleporter
 - Moving NPCs
 - Collectable items
+- Inventory
 - Interaction with objects in the world
 ---
 
@@ -33,6 +36,4 @@ On this islands there are some strange people living. There is an always drunk w
 - The teacher struggles sometimes.
 - Some wrong dialogue texts
 - No item text on the gem
-- The chest closes automatically at the second visit
-- No chest inventory overlay
 - Wrong displayed dialogues at the wizard
