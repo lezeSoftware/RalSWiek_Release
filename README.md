@@ -1,7 +1,7 @@
 # RalSWiek Preview Repository
 > Release repo for the RalSWiek project
 
-> Current version: pre 0.1.1
+> Current version: pre 0.1.3
 ---
 The RalSWiek project is a roleplay game based on the XNA framework. 
 The user takes control over a little man who has to pass his way over some islands.
