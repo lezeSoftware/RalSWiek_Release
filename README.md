@@ -8,6 +8,12 @@ The user takes control over a little man who has to pass his way over some islan
 On this islands there are some strange people living. There is an always drunk wizard and a sometimes struggeling teacher. The wizard holds a quest for you.
 You have to start his quest. Otherwise you can't leave the first island.
 The second island has a automatic end. You have to reach the third small island on the left and have to walk to the right upper side. 
+---
+### Sound bug
+
+To prevent the sound bug please run the OpenAL_Driver_Installer.exe. This will install the OpenAL driver which is needed for the XNA framework to load and play sound files.
+The game will run without sounds otherwise.
+---
 
 #### 4K Support
 
