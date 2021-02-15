@@ -45,6 +45,8 @@ If you use a 4K display create a textfile "4K.txt" in the directory of the game 
 - ARROW Keys to select an item in the inventory
 - ENTER to select a dialogue option
 - SPACE after the "Finished" sound to leave the level
+- F3 to display debug screen
+- MOUSE WHEEL UP and DOWN for camera zoom
 ---
 #### Known bugs
 
