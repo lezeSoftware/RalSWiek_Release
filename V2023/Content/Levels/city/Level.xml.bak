@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level>
+	<name>Stadt</name>
+	<version>1.0</version>
+	<foldername>city</foldername>
+	<height>13</height>
+	<width>13</width>
+	<index>1</index>
+	<Characters>
+		<Character type="orc" name="Ork-Krieger" position="8/3" />
+	</Characters>
+	<Points>
+		<Start type="start" position="10/10" active="True" />
+	</Points>
+	<Objects>
+		<Item type="key" position="6/3" amount="1" comment="123" id="0xB0"/>
+		<Object type="teleporter" state="idle" position="7/2" id="0xA1" target="9/8" name="Teleporter" />
+		<Object type="teleporter" state="idle" position="9/8" id="0xA2" target="7/3" name="Teleporter" />
+		<Object type="teleporter" state="idle" position="9/2" id="0xA3" target="2/8" name="Teleporter" />
+		<Object type="teleporter" state="idle" position="2/7" id="0xA4" target="9/3" name="Teleporter" />
+		<Object type="teleporter" state="idle" position="3/8" id="0xA5" target="end" name="Teleporter" />
+	</Objects>
+</Level>

@@ -1,0 +1,21 @@
+Warst du schon bei Richard?
+Was ist das für ein Stein hier, den du mir gegeben hast?
+Das ist ein Fokusstein. Den habe ich von Richard.
+Und was kann der Stein?
+Das weiß ich nicht. Rede mal mit Richard.
+answer_denie
+answer_accept_denie
+Wo finde ich Richard?
+Er lebt unten bei der Farm.
+Ich komme spaeter wieder.
+Mach's gut!
+Kannst du mir sagen, was das hier für ein Stein ist?
+Fokussteine gehören zu Fokusständern. Damit kannst du Teleporter aktivieren.
+Es ist mir eigentlich egal was der Stein kann.
+answer_accept_quit
+Unmöglich! Richard hilft dir sicher weiter.
+answer_fail
+answer_accept_fail
+answer_repeat
+answer_accept_repeat
+answer_denie_repeat

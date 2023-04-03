@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Manatrank</Name>
+  <HP>0</HP>
+  <MP>15</MP>
+  <SellValue>20</SellValue>
+  <CanBeUsed>true</CanBeUsed>
+  <IsEatable>true</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>true</DestroyAtUse>
+  <Description>Der Trank regeneriert Mana.</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

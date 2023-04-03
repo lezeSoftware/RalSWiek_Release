@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Schlüssel</Name>
+  <HP>0</HP>
+  <MP>0</MP>
+  <SellValue>0</SellValue>
+  <CanBeUsed>false</CanBeUsed>
+  <IsEatable>false</IsEatable>
+  <IsTradeable>false</IsTradeable>
+  <DestroyAtUse>false</DestroyAtUse>
+  <Description>Description needed!</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

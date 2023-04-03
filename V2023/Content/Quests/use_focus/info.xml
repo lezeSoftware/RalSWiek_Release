@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quest>
+	<name>Benutze den Fokusstein</name>
+	<index>use_focus</index>
+	<source_character>girl</source_character>
+	<ParentQuest>ring_girl</ParentQuest>
+	<ParentQuestState>5</ParentQuestState>
+	<IsRepeatable>False</IsRepeatable>
+	<FinishType>Talk</FinishType>
+	<HasToBeDone>True</HasToBeDone>
+	<HelpAvailable>True</HelpAvailable>
+	<reference type="NPC" kind="boy" amount="1" />
+</Quest>

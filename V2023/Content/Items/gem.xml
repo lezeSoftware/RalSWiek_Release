@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Goldmünze</Name>
+  <HP>0</HP>
+  <MP>0</MP>
+  <SellValue>5</SellValue>
+  <CanBeUsed>false</CanBeUsed>
+  <IsEatable>false</IsEatable>
+  <IsTradeable>false</IsTradeable>
+  <DestroyAtUse>false</DestroyAtUse>
+  <Description>Eine goldene Münze.</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>
