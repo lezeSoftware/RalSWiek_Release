@@ -1,8 +1,13 @@
-# RalSWiek Preview Repository
+# RalSWiek Preview Repository [Outdated]
 > Release repo for the RalSWiek project
 
 > Aktuelle Version pre 0.1.4
 > Current version: pre 0.1.4
+> 
+
+Bitte das neue Repo in LEZE-Software nutzen.
+Please use the new repo in LEZE-Software.
+
 ---
 
 Das RalSWiek-Projekt ist ein Rollenspiel, das auf dem XNA-Framework basiert.

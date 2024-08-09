@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Sonnenstengel</Name>
+  <HP>0</HP>
+  <MP>2</MP>
+  <SellValue>3</SellValue>
+  <CanBeUsed>true</CanBeUsed>
+  <IsEatable>true</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>true</DestroyAtUse>
+  <Description>kann zum Brauen verwendet werden</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

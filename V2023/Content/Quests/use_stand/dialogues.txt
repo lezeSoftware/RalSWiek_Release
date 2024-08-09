@@ -1,0 +1,21 @@
+Du bist ja immernoch hier. Hat der Teleport nicht geklappt?
+Weißt du etwas über Fokussteine?
+Na klar. Was möchtest du wissen?
+Wie aktivere ich damit einen Fokusstand? Und was passiert dann?
+Du musst den Fokusstein in die Schale legen. Dann öffnet sich das Teleporttor.
+answer_denie
+answer_accept_denie
+Und wo ist so ein Fokusstand?
+Die stehen meistens neben den Teleporttoren, die sie öffnen.
+answer_later
+answer_accept_later
+answer_finish
+answer_accept_finish
+answer_quit
+answer_accept_quit
+answer_denie_quit
+answer_fail
+answer_accept_fail
+answer_repeat
+answer_accept_repeat
+answer_denie_repeat

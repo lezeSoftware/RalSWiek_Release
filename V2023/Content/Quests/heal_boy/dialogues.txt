@@ -1,0 +1,21 @@
+Kommst du, um mir den Heiltrank zu bringen?
+Geht's dir gut? Du siehst sehr krank aus.
+Nein. Ich fühle mich auch nicht gut. Ein Heiltrank könnte mir helfen.
+Ich werde dir einen Heiltrank besorgen.
+Oh, das ist sehr lieb von dir! Vielen Dank!
+Da kann man wohl nichts machen.
+Wie du meinst.
+Hilfetext
+Hilfe_Antwort
+Ich komme später wieder.
+Mach's gut!
+Hier, ich habe einen Heiltrank für dich!
+Oh, vielen Dank! Dafür bekommst du diesen Manastein von mir!
+Ich habe keine Zeit mehr, nach einem Trank für dich zu suchen.
+Das enttäuscht mich. Mir geht es immer schlechter.
+Versuche es doch nochmal, bitte!
+Ich habe den Trank selber getrunken.
+Da kann man wohl nichts machen. Schade.
+Geht es dir schon wieder besser?
+Nein. Ich leide immer noch. Hilfst du mir?
+Ja, ich habe mich etwas erholt.

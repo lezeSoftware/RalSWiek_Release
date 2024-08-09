@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Mana-Stein</Name>
+  <HP>0</HP>
+  <MP>15</MP>
+  <SellValue>10</SellValue>
+  <CanBeUsed>true</CanBeUsed>
+  <IsEatable>false</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>true</DestroyAtUse>
+  <Description>Erhöht Mana.</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

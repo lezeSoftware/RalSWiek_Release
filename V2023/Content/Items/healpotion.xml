@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Heiltrank</Name>
+  <HP>15</HP>
+  <MP>0</MP>
+  <SellValue>10</SellValue>
+  <CanBeUsed>true</CanBeUsed>
+  <IsEatable>true</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>true</DestroyAtUse>
+  <Description>Regeneriert Lebensenergie.</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>true</IsAnimated>
+</Item>

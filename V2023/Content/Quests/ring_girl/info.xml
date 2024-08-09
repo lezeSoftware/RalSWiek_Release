@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quest>
+  <name>Der Ring des Mädchens</name>
+  <index>ring_girl</index>
+  <source_character>Girl</source_character>
+  <ParentQuest>null</ParentQuest>
+  <ParentQuestState>0</ParentQuestState>
+  <IsRepeatable>False</IsRepeatable>
+  <FinishType>Item</FinishType>
+  <HasToBeDone>False</HasToBeDone>
+  <HelpAvailable>True</HelpAvailable>
+  <reference type="Item" kind="oldring" amount="1" />
+  
+</Quest>
