@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quest>
+  <name>Mondschimmer für den Zauberer</name>
+  <index>moons_wizard</index>
+  <source_character>Wizard</source_character>
+  <ParentQuest>ring_girl</ParentQuest>
+  <ParentQuestState>3</ParentQuestState>
+  <IsRepeatable>False</IsRepeatable>
+  <FinishType>Item</FinishType>
+  <HasToBeDone>True</HasToBeDone>
+  <HelpAvailable>True</HelpAvailable>
+  <reference type="Item" kind="moonshine" amount="4" />
+  <loan type="Item" kind="old_key" amount="1" />
+</Quest>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quest>
+  <name>Heilung für Richard</name>
+  <index>heal_boy</index>
+  <source_character>boy</source_character>
+  <ParentQuest>null</ParentQuest>
+  <ParentQuestState>0</ParentQuestState>
+  <IsRepeatable>True</IsRepeatable>
+  <FinishType>Item</FinishType>
+  <HasToBeDone>False</HasToBeDone>
+  <HelpAvailable>False</HelpAvailable>
+  <reference type="Item" kind="healpotion" amount="1" />
+  <loan type="Item" kind="managem" amount="1" />
+</Quest>

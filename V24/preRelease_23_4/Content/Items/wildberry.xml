@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Wildbeere</Name>
+  <HP>0</HP>
+  <MP>0</MP>
+  <SellValue>2</SellValue>
+  <CanBeUsed>true</CanBeUsed>
+  <IsEatable>true</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>true</DestroyAtUse>
+  <Description>Beeschwöre den wilden Barry!</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Fingerpflanze</Name>
+  <HP>0</HP>
+  <MP>0</MP>
+  <SellValue>20</SellValue>
+  <CanBeUsed>false</CanBeUsed>
+  <IsEatable>false</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>false</DestroyAtUse>
+  <Description>Die Blätter sehen aus wie Finger.</Description>
+  <IsQuestItem>true</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

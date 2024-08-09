@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level>
+	<name>Wald</name>
+	<version>1.0</version>
+	<foldername>forest</foldername>
+	<height>38</height>
+	<width>36</width>
+	<index>0</index>
+	<Characters>
+		<Character type="orc" name="Ork-Krieger" position="22/13" />
+		<Character type="Wizard" name="Emilio" position="2/12" />
+		<Character type="plum" name="Zacharias" position="14/20" />
+		<Character type="Girl" name="Ismelda" position="27/17" />
+		<Character type="Teacher" name="Hans-Dietrich" position="2/31" />
+		<Character type="Boy" name="Richard" position="23/25" />
+		<Character type="nerd" name="Java-Nerd" position="20/16" />
+	</Characters>
+	<Points>
+		<Start type="start" position="6/11" active="True" />
+	</Points>
+	<Objects>
+		<Item type="key" position="9/15" amount="1" comment="123" id="0xB0"/>
+		<Item type="key" position="24/28" amount="1" comment="23" id="0xB0"/>
+		<Item type="finger_plant" position="17/12" amount="1" id="0xB0"/>
+		<Item type="fire_bush" position="1/12" amount="1" id="0xB0"/>
+		<Item type="cross_farn" position="18/17" amount="1" id="0xB0"/>
+		<Item type="dragon_eye" position="25/16" amount="1" id="0xB0"/>
+		<Item type="wild_rose" position="20/18" amount="1" id="0xB0"/>
+		<Item type="wild_rose" position="20/32" amount="1" id="0xB0"/>
+		<Item type="finger_plant" position="23/31" amount="1" id="0xB0"/>
+		<Item type="red_sun" position="8/16" amount="1" id="0xB0"/>
+		<Item type="dark_farn" position="9/18" amount="1" id="0xB0"/>
+		<Item type="sunstem" position="3/21" amount="1" id="0xB0"/>
+		<Item type="sunstem" position="25/32" amount="1" id="0xB0"/>
+		<Item type="healplant" position="6/11" amount="1" id="0xB0"/>
+		<Item type="moonshine" position="17/28" amount="1" id="0xB0"/>
+		<Item type="key" position="18/28" amount="1" comment="456" id="0xB0"/>
+		<Item type="moonshine" position="30/15" amount="1" id="0xB0"/>
+		<Item type="moonshine" position="14/15" amount="1" id="0xB0"/>
+		<Item type="lavender" position="28/31" amount="1" id="0xB0"/>
+		<Item type="lavender" position="29/31" amount="1" id="0xB0"/>
+		<Item type="lavender" position="30/31" amount="1" id="0xB0"/>
+		<Item type="lavender" position="31/31" amount="1" id="0xB0"/>
+		<Item type="moonshine" position="7/28" amount="1" id="0xB0"/>
+		<!--Objects-->
+		<Object type="teleporter" state="inactive" position="4/23" id="0xA1" name="Teleporter" target="end"/>
+		<Object type="gardengate" state="active" position="24/29" id="0xA1" name="Gartentor" locked="True" keyIndex="23"/>
+		<Object type="focusTable" state="inactive" position="6/24" id="0xA2" comment="Ein Fokustisch" name="Fokusständer" ref_id="0xA3" />
+		<Object type="chest" state="active" position="2/9" id="0xA3" comment="123" name="Alte Kiste" locked="True"  keyIndex="0x30" >
+			<Item type="managem" amount="1" />
+			<Item type="beer" amount="2" />
+		</Object>
+		<Object type="chest" state="active" position="22/11" keyIndex="0x00" comment="456" locked="False" name="Seemanskiste" id="0xA3">
+			<Item type="healpotion" amount="1" />
+			<Item type="gem" amount="10" />
+		</Object>
+	</Objects>
+</Level>

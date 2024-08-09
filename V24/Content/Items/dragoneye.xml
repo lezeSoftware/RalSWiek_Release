@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Drachenauge</Name>
+  <HP>-7</HP>
+  <MP>0</MP>
+  <SellValue>2</SellValue>
+  <CanBeUsed>true</CanBeUsed>
+  <IsEatable>true</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>true</DestroyAtUse>
+  <Description>Kann zum Brauen verwendet werden.</Description>
+  <IsQuestItem>false</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

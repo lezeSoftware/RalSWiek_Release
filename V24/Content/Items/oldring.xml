@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Alter Ring</Name>
+  <HP>0</HP>
+  <MP>0</MP>
+  <SellValue>0</SellValue>
+  <CanBeUsed>true</CanBeUsed>
+  <IsEatable>false</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>false</DestroyAtUse>
+  <Description>Ein Ring mit einem Edelstein.</Description>
+  <IsQuestItem>true</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

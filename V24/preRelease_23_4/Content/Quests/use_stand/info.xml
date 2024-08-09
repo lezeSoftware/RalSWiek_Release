@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quest>
+  <name>Den Fokusstand aktivieren</name>
+  <index>use_stand</index>
+  <source_character>teacher</source_character>
+  <ParentQuest>use_focusgem</ParentQuest>
+  <ParentQuestState>5</ParentQuestState>
+  <IsRepeatable>False</IsRepeatable>
+  <FinishType>Usage</FinishType>
+  <HasToBeDone>True</HasToBeDone>
+  <HelpAvailable>True</HelpAvailable>
+  <reference type="Object" kind="focusstand" amount="1" />
+</Quest>

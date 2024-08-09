@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Technikschrott</Name>
+  <HP>0</HP>
+  <MP>0</MP>
+  <SellValue>1</SellValue>
+  <CanBeUsed>false</CanBeUsed>
+  <IsEatable>false</IsEatable>
+  <IsTradeable>true</IsTradeable>
+  <DestroyAtUse>false</DestroyAtUse>
+  <Description>Was soll ich damit?</Description>
+  <IsQuestItem>true</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>

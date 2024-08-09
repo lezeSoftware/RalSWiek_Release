@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <Name>Wilde Rose</Name>
+  <HP>0</HP>
+  <MP>0</MP>
+  <SellValue>0</SellValue>
+  <CanBeUsed>false</CanBeUsed>
+  <IsEatable>false</IsEatable>
+  <IsTradeable>false</IsTradeable>
+  <DestroyAtUse>false</DestroyAtUse>
+  <Description>Kann verschenkt werden.</Description>
+  <IsQuestItem>true</IsQuestItem>
+  <IsAnimated>false</IsAnimated>
+</Item>
